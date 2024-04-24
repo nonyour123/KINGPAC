@@ -54,4 +54,16 @@ class Reservetion extends CI_Controller {
 		$this->render_view('main/view_reservetion_room');
 	}
 
+	public function reservetiondriver(){
+		$this->render_view('main/view_driver_car');
+	}
+
+	public function reservetionDatacar(){
+		$this->render_view('main/view_data_car');
+	}
+
+	public function reservetionStatuscar(){
+		$this->render_view('main/view_status_car');
+	}
+
 }

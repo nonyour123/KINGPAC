@@ -16,6 +16,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
   <!-- Favicons -->
   <link href="{base_url}design/assets/img/kingpac logo 2.png" rel="icon">
   <link href="{base_url}design/assets/img/kingpac logo 2.png" rel="apple-touch-icon">
+  <link href='{base_url}calender/fullcalendar/packages/core/main.css' rel='stylesheet' />
+  <link href='{base_url}calender/fullcalendar/packages/daygrid/main.css' rel='stylesheet' />
 
   <!-- Google Fonts -->
 
@@ -37,6 +39,8 @@ defined('BASEPATH') or exit('No direct script access allowed');
 
   <!-- Template Main CSS File -->
   <link href="{base_url}design/assets/css/main.css" rel="stylesheet">
+  <link rel="{base_url}stylesheet" href="css/bootstrap.min.css">
+  <link rel="{base_url}stylesheet" href="css/style.css">
 
   <!--slideshow-->
   
